@@ -13,7 +13,6 @@
 
 ### Contact
 - Email: s.k.serhan.kara@gmail.com
-- 
 - LinkedIn: www.linkedin.com/in/serhan-kara-2879bb301
 <!--
 **ceskara/ceskara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
