@@ -1,6 +1,7 @@
 ### Hi 👋
 
 🏗 I’m currently working on Ozel Buca OSB Mesleki ve Teknik Anadolu Lisesi as Math Teacher
+
 🎓 Master’s Student in Computer Science at Dokuz Eylül University
 📊 Passionate about Data Science, Machine Learning, and Time Series Forecasting
 💻 Experienced in Python, Pandas, Scikit-Learn, TensorFlow, and SQL
