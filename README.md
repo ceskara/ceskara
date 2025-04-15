@@ -6,7 +6,7 @@
 
 📊 Passionate about Data Science, Machine Learning, and Time Series Forecasting
 
-💻 Experienced in Python, Pandas, Scikit-Learn, TensorFlow, and SQL
+💻 Experienced in Python, Pandas, Scikit-Learn, PyTorch, and SQL
 
 🚀 Always learning and exploring new technologies
 
